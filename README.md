@@ -1,1 +1,1 @@
-# Course-Scheduling-System
+# Course-Scheduling-Management-System
