@@ -10,7 +10,7 @@ export const NavBar = () => {
     <div className="nav-container" data-aos="fade-down" >
             <div className ="logo">
                 <img className= "logoimg" alt= "logo" src={logo}/>
-                <h2 className = "title">Cource Schedule</h2>
+                <h2 className = "title">Course Schedule</h2>
             </div>
             <ul className = "navbar">
                 <div className = "it">
